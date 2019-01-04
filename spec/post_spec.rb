@@ -18,4 +18,3 @@ describe Post do
     Timecop.freeze { example.run }
   end
 end
-
